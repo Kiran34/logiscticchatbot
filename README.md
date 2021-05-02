@@ -1,2 +1,1 @@
-# logiscticchatbot
-online logisctic chatbot
+# online-logistic-chat-bot-system
